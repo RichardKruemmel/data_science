@@ -1,0 +1,26 @@
+1. Why do you want to learn data science?
+
+I want to learn data science because I have worked in the past with scraping data, tidying it up and visualising it. I felt like I could have a better theoretical understanding to improve my workflow as my previous process felt too complicated und not streamlined enough.
+I also like working with OpenData and gaining the skills to give meaning to datasets, seems important ot me.
+
+2. What course topics are you especially interested in?
+
+I am really interested in tidying data up and how to visualise data.
+
+3. Describe your own programming skills (languages, technologies, Python in particular)
+
+I used Python as my starting point for my programming learning path. From creating a simple pygame to writing multiple scraping scripts with Scrapy to creating a API's with Flask and FastAPI (main focus the past semesters).
+I have no experience with python used in Data science.
+Other programming skills include React.js, Next.js, Typescript, React Native.
+
+4. Please provide a link to your GitHub profile
+
+https://github.com/RichardKruemmel
+
+5. How do you plan to learn?
+
+As I have already selected all my modules for my B.Sc. I am taking this LU as a "Fun LU" meaning I will participate in as many LU's as my schedule allows and will try to do as many assignments (e.g. mini projects) as possible.
+
+6. Do you have a favorite data analysis, graphic or data presentation? Which one?
+
+As I am new to this topic, I so far don't have any favourite tools.

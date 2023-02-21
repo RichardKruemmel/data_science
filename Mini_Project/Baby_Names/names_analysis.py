@@ -18,7 +18,7 @@ Read the file 'yob2021.txt' into pandas.
 
 """
 
-baby_names = pd.read_csv("Mini_Project/Baby_Names/names/yob2021.txt", header=None)
+baby_names = pd.read_csv("Mini_Project/names/yob2021.txt", header=None)
 
 """ Task 3
 Print the first 10 rows. """
